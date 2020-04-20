@@ -18,10 +18,6 @@ public class TvInfoPage extends AndroidLocator {
 
     protected AndroidElement price() {return getLocator(page, "price");}
 
-    protected AndroidElement description() {return getLocator(page, "description");}
-
-    protected List<AndroidElement> isDescription() {return getLocatorList(page, "description");}
-
     protected List<AndroidElement> isAddToCart() {return getLocatorList(page, "addToCart");}
 
     protected AndroidElement addToCart() {return getLocator(page, "addToCart");}

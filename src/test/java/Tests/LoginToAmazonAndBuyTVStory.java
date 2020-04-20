@@ -1,7 +1,6 @@
 package Tests;
 
 import Steps.AmazonSteps;
-import net.thucydides.core.annotations.Steps;
 import net.thucydides.core.annotations.WithTag;
 import org.junit.Test;
 import net.thucydides.core.annotations.WithTags;
@@ -9,9 +8,8 @@ import utils.TV;
 
 @WithTags(
         {
-                @WithTag("E2E"),
-                @WithTag("Join"),
-                @WithTag("loyalty")
+                @WithTag("Test"),
+                @WithTag("Login"),
         }
 )
 public class LoginToAmazonAndBuyTVStory extends TestSetup {

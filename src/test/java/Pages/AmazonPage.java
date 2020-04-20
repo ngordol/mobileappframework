@@ -15,7 +15,6 @@ public class AmazonPage extends AndroidLocator {
 
     protected AndroidElement search(){ return getLocator(page, "search");}
 
-
     protected AndroidElement tv(){ return getLocator(page, "randomTV");}
 
     protected List<AndroidElement> isTvVisible(){return getLocatorList(page, "randomTV");}
