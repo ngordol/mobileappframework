@@ -1,0 +1,17 @@
+title: "Amazon Login"
+
+login:
+  type: "text"
+  element: "Already a customer? Sign in"
+email:
+  type: "chromeID"
+  element: "ap_email_login"
+continue:
+  type: "text"
+  element: "Continue"
+password:
+  type: "chromeID"
+  element: "ap_password"
+signin:
+  type: "chromeID"
+  element: "signInSubmit"

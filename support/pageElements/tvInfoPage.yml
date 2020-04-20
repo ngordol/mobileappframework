@@ -1,0 +1,17 @@
+title: "Tv Info Page"
+
+name:
+  type: "chromeID"
+  element: "title"
+price:
+  type: "chromeID"
+  element: "price"
+description:
+  type: "chromeID"
+  element: "id"
+addToCart:
+  type: "chromeID"
+  element: "add-to-cart-button"
+checkOut:
+  type: "chromeID"
+  element: "com.amazon.mShop.android.shopping:id/action_bar_cart"

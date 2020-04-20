@@ -1,0 +1,8 @@
+title: "Checkout Page"
+
+checkOutName:
+  type: "text"
+  element: 'Samsung 65\" Series 8 Q80T QLED UHD 4K TV QA65Q80TAWXXY'
+checkOutPrice:
+  type: "text"
+  element: '$2,699.00'

@@ -1,0 +1,4 @@
+# Created at 2020-04-17T15:08:32.781
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Gordon's stuff\Qantas\CoronaExitQantasStuff\MobileAutomationFramework\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

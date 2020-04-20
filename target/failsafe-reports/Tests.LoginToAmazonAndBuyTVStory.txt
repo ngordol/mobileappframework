@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Tests.LoginToAmazonAndBuyTVStory
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 7.881 sec <<< FAILURE! - in Tests.LoginToAmazonAndBuyTVStory
+verifyLoginAndBuyTVStory(Tests.LoginToAmazonAndBuyTVStory)  Time elapsed: 7.881 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at Tests.LoginToAmazonAndBuyTVStory.verifyLoginAndBuyTVStory(LoginToAmazonAndBuyTVStory.java:20)
+

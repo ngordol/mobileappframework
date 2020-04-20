@@ -1,0 +1,17 @@
+title: "Amazon Home"
+
+skipLogin:
+  type: "text"
+  element: "Skip sign in"
+searchBar:
+  type: "text"
+  element: "What are you looking for?"
+search:
+  type: "text"
+  element: "Search"
+randomTV:
+  type: "text"
+  element: 'Samsung 65\" Series 8 Q80T QLED UHD 4K TV QA65Q80TAWXXY'
+amazonLogo:
+  type: "text"
+  element: "Amazon.com.au"

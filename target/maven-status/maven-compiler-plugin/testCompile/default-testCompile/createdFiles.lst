@@ -1,0 +1,5 @@
+Actions\AmazonActions.class
+Steps\AmazonSteps.class
+Pages\AmazonPage.class
+Tests\LoginToAmazonAndBuyTVStory.class
+Tests\TestSetup.class
