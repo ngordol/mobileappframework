@@ -21,7 +21,7 @@
         <jyaml>1.3</jyaml>
         <commons-beanutils>1.8.3</commons-beanutils>
         <logback.version>1.0.11</logback.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <lombok.version>1.18.10</lombok.version>
         <slf4j.version>1.7.5</slf4j.version>
     </properties>
